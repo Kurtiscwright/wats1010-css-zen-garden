@@ -17,7 +17,7 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
-	background: #fff url(blossoms.jpg) no-repeat bottom right; 
+	background: #fff url(east-west-scroll.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
@@ -127,7 +127,7 @@ footer a:link, footer a:visited {
 	}
 .sidebar .wrapper { 
 	font: 10px verdana, sans-serif; 
-	background: transparent url(paper-bg.jpg) top left repeat-y; 
+	background: transparent url(north-south-image.jpg) top left repeat-y; 
 	padding: 10px; 
 	margin-top: 150px; 
 	width: 130px; 
